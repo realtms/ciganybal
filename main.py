@@ -1,2 +1,3 @@
 if __name__ == '__main__':
-    print("pls föviden")
+    print("pls igen")
+    print("folytatás kódja")
